@@ -69,7 +69,7 @@ Predicted salaries are displayed in the terminal after running the program.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/hamzaaumerr/salary-prediction-linear-regression
 cd salary-prediction-linear-regression
 ```
 
